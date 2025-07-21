@@ -27,7 +27,7 @@ Hardware Keyloggers: These are physical devices that intercept the signal betwee
 
 Beyond just logging keystrokes, advanced keyloggers can also capture screenshots, record clipboard content (text you copy), and even access the device's microphone and webcam.
 
-Uses of Keyloggers
+## Uses of Keyloggers
 While often associated with criminal activity, keyloggers have both legitimate and malicious applications.
 
 Legitimate Uses
